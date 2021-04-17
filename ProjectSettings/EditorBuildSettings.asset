@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MAIN/SpiderLand.unity
+    guid: 1a1a7f9ba01dcfe4ab2213453e175a38
+  - enabled: 1
+    path: Assets/MAIN/Credits.unity
+    guid: 7dc99ae36f1798c45b4dbc9a4c8f1009
+  m_configObjects: {}
